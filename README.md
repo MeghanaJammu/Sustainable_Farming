@@ -14,12 +14,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-![App Screenshot](https://placehold.co/600x400?text=Insert+Screenshot+Here)
-
----
-
 ## 🛠️ How to Run
 
 1. **Clone the Repository**
