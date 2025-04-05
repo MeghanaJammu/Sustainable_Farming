@@ -74,11 +74,11 @@ The app analyzes:
 
 This project is built with 💚 by:
 
-- [Meghana Jammu](https://github.com/)
-- [Somrima Saha](https://github.com/username)
-- [Shikhar Mishra](https://github.com/username)
+- [Meghana Jammu](https://github.com/MeghanaJammu)
+- [Somrima Saha](https://github.com/somrima-09)
+- [Shikhar Mishra](https://github.com/Shikharmishra16)
 
-Proudly from **IIT Guwahati** 🐘
+from **IIT Guwahati** 🐘
 
 ---
 
