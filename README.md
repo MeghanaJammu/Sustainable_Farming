@@ -74,7 +74,7 @@ The app analyzes:
 
 This project is built with 💚 by:
 
-- [Meghana Jammu](https://github.com/yourusername)
+- [Meghana Jammu](https://github.com/)
 - [Somrima Saha](https://github.com/username)
 - [Shikhar Mishra](https://github.com/username)
 
